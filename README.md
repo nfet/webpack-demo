@@ -26,5 +26,6 @@ npm install --save-dev webpack
 * Set package.json - scripts/build to "webpack"
 
 ## Reference
+* http://webpack.github.io/
 * https://webpack.js.org/guides/get-started/
 * https://webpack.js.org/concepts/module-resolution/

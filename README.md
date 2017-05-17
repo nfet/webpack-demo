@@ -3,7 +3,7 @@ An introduction to webpack
 
 ## Pre-requisite
 * Brew installed
-* NPM installed ```bash brew install npm```
+* NPM installed via ``` brew install npm```
 
 ## Building the webpack module
 **Notes:**
